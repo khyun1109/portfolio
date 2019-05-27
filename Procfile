@@ -1,0 +1,1 @@
+web: gunicorn assign_first.wsgi --log-file -
